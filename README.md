@@ -6,8 +6,7 @@ A modern, responsive personal portfolio website built with pure HTML, CSS, and J
 
 ## 🌐 Live Demo
 
-> [https://your-site-name.netlify.app](https://your-site-name.netlify.app)  
-> *(Update this link after hosting)*
+> [https://praveenkris.netlify.app](https://praveenkris.netlify.app) 
 
 ---
 
